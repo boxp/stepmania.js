@@ -1,6 +1,6 @@
 # stepmania-js
 
-  .sm and .dwi player
+  .sm player
 
 ## Usage
 
